@@ -12,4 +12,4 @@ Dependencies:
 - bittwist
 
 Usage:
-./dhcpoffer.sh [interface_name]
+`./dhcpoffer.sh [interface_name]`
